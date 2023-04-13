@@ -1,8 +1,0 @@
-N1 = int(input("Insira o primeiro numero: "))
-N2 = int(input("Insira o segundo numero: "))
-OPR= int(input("1 para somar\n2 para subtrair\n3 para multiplicar\n4 para dividir\n5 para potenciação\n"))
-if OPR == 1: print (N1+N2)
-if OPR == 2: print (N1-N2)  
-if OPR == 3: print (N1*N2)
-if OPR == 4: print (N1/N2)  
-if OPR == 5: print (N1**N2) 

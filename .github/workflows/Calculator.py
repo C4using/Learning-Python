@@ -1,0 +1,8 @@
+N1 = int(input("Input the first number: "))
+N2 = int(input("Input the second number: "))
+OPR= int(input("1 is for addition\n2 for subtraction\n3 for multiplication\n4 for division\n5 for Exponentiation\n"))
+if OPR == 1: print (N1+N2)
+if OPR == 2: print (N1-N2)  
+if OPR == 3: print (N1*N2)
+if OPR == 4: print (N1/N2)  
+if OPR == 5: print (N1**N2) 
